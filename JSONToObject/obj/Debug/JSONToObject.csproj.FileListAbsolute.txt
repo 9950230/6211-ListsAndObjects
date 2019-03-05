@@ -1,0 +1,14 @@
+C:\Users\drago\source\repos\6211-ListsAndObjects\JSONToObject\obj\Debug\JSONToObject.csproj.CoreCompileInputs.cache
+C:\Users\drago\source\repos\6211-ListsAndObjects\JSONToObject\bin\Debug\JSONToObject.exe.config
+C:\Users\drago\source\repos\6211-ListsAndObjects\JSONToObject\bin\Debug\JSONToObject.exe
+C:\Users\drago\source\repos\6211-ListsAndObjects\JSONToObject\bin\Debug\JSONToObject.pdb
+C:\Users\drago\source\repos\6211-ListsAndObjects\JSONToObject\obj\Debug\JSONToObject.exe
+C:\Users\drago\source\repos\6211-ListsAndObjects\JSONToObject\obj\Debug\JSONToObject.pdb
+C:\Users\drago\source\repos\6211-ListsAndObjects\JSONToObject\obj\Debug\JSONToObject.csprojAssemblyReference.cache
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-ListsAndObjects\JSONToObject\bin\Debug\JSONToObject.exe.config
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-ListsAndObjects\JSONToObject\bin\Debug\JSONToObject.exe
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-ListsAndObjects\JSONToObject\bin\Debug\JSONToObject.pdb
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-ListsAndObjects\JSONToObject\obj\Debug\JSONToObject.csprojAssemblyReference.cache
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-ListsAndObjects\JSONToObject\obj\Debug\JSONToObject.csproj.CoreCompileInputs.cache
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-ListsAndObjects\JSONToObject\obj\Debug\JSONToObject.exe
+C:\Users\drago\Desktop\6211 - Algorithms and Data Structures\6211-ListsAndObjects\JSONToObject\obj\Debug\JSONToObject.pdb
